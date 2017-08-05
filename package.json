@@ -5,7 +5,7 @@
   "main": "src/matplotlib.js",
   "scripts": {
     "test": "node test.js",
-    "install": "node-gyp configure rebuild"
+    "install": "node-gyp rebuild"
   },
   "repository": {
     "type": "git",
