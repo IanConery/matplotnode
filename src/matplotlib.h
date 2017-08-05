@@ -3,7 +3,7 @@
 
 #include <node.h>
 #include <string>
-#include <Python.h>
+#include <Python/Python.h>
 
 namespace plt {
 	struct interpreter {
